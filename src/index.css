@@ -17,23 +17,23 @@ nav {
     padding: 30px 25px;
 }
 
-.nav--logo_text, .nav--title {
+.nav-logo_text, .nav-title {
     margin: 0;
 }
 
-.nav--logo_text {
+.nav-logo_text {
     margin-right: auto;
     color: #61DAFB;
     font-weight: 700;
     font-size: 22px;
 }
 
-.nav--title {
+.nav-title {
     color: #DEEBF8;
     font-weight: 600;
 }
 
-.nav--icon {
+.nav-icon {
     height: 30px;
     margin-right: 7px;
 }
@@ -43,23 +43,23 @@ main {
     color: white;
 }
 
-.main--title {
+.main-title {
     margin: 0;
     font-size: 39px;
     letter-spacing: -0.05em;
 }
 
-.main--facts {
+.main-facts {
     margin-top: 46px;
     max-width: 400px;
 }
 
-.main--facts > li {
+.main-facts > li {
     line-height: 19px;
     padding-block: 10px;
 }
 
-.main--facts > li::marker {
+.main-facts > li::marker {
     font-size: 1.4rem;
     color: #61DAFB;
 }
